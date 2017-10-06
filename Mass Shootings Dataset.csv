@@ -1,0 +1,399 @@
+Snum,Title,Location,Date,Fatalities,Injured,Total victims,Mental Health Issues,Race,Gender,Latitude,Longitude
+1,Las Vegas Strip mass shooting,"Las Vegas, NV",10/1/2017,58,515,573,Unclear,,,,
+2,San Francisco UPS shooting,"San Francisco, CA",6/14/2017,3,2,5,Yes,Asian,M,,
+3,Pennsylvania supermarket shooting,"Tunkhannock, PA",6/7/2017,3,0,3,Unclear,White,M,,
+4,Florida awning manufacturer shooting,"Orlando, Florida",6/5/2017,5,0,5,Unclear,,M,,
+5,Rural Ohio nursing home shooting,"Kirkersville, Ohio",5/12/2017,3,0,3,Yes,White,M,,
+6,Fresno downtown shooting,"Fresno, California",4/18/2017,3,0,3,Unclear,Black,M,,
+7,Fort Lauderdale airport shooting,"Fort Lauderdale, Florida",1/6/2017,5,6,11,Yes,Latino,M,,
+8,Cascade Mall shooting,"Burlington, WA",9/23/2016,5,0,5,Yes,,M,,
+9,Baton Rouge police shooting,"Baton Rouge, LA",7/17/2016,3,3,6,Yes,Black,M,,
+10,Dallas police shooting,"Dallas, Texas",7/7/2016,5,11,16,Unclear,Black,M,,
+11,Orlando nightclub massacre,"Orlando, Florida",6/12/2016,49,53,102,Unclear,Other,M,,
+12,"Ferguson, MO Drive by","Ferguson, Missouri",4/29/2016,0,4,4,Unknown,Unknown,Unknown,38.744217,-90.305391
+13,"Forestville, Maryland Drive-by","42486, ",4/26/2016,1,4,5,Unknown,Unknown,Unknown,38.845113,-76.874972
+14,"Halifax County, VA","42484, ",4/24/2016,0,6,6,Unknown,Black American or African American,Male,36.765971,-78.928344
+15,Tire-Slashing revenge escalation,"42481, ",4/21/2016,0,4,4,Unknown,Black American or African American,Male,39.290385,-76.612189
+16,Chicago Rap video Shootout,"42479, ",4/19/2016,1,4,5,Unknown,Unknown,Unknown,41.878114,-87.629798
+17,Texas family murder-suicide,"42479, ",4/19/2016,4,0,4,Unknown,White American or European American,Male,29.785785,-95.824396
+18,Alabama highway random shooting,"42479, ",4/19/2016,1,4,4,Yes,White American or European American,Male,34.16204,-86.475543
+19,Long Beach Street murder,"42478, ",4/18/2016,0,3,4,Unknown,Unknown,Unknown,33.77005,-118.193739
+20,"Albuquerque, NM House party shooting","42469, ",4/9/2016,0,4,4,Unknown,White American or European American,Male,35.085334,-106.605553
+21,"Memphis, TN gas station shooting","42469, ",4/9/2016,0,4,4,Unknown,Unknown,Unknown,35.149534,-90.04898
+22,Chicago Birthday Party Bus Shooting,"42467, ",4/7/2016,0,5,5,Unknown,Unknown,Unknown,41.878114,-87.629798
+23,"Albuquerque, NM Family restaurant shooting","42461, ",4/1/2016,3,1,3,Unknown,Asian American,Male,35.085334,-106.605553
+24,"Richmond, Virginia","Richmond, Virginia",3/31/2016,2,2,3,Unknown,Black American or African American,Male,37.540725,-77.436048
+25,"Louisburg, North Carolina","Louisburg, North Carolina",3/26/2016,3,0,3,Unknown,Black American or African American,Male,36.099039,-78.301106
+26,"Lawrenceburg, Tennessee","Lawrenceburg, Tennessee",3/25/2016,2,2,3,Unknown,Unknown,Male,35.242302,-87.334739
+27,"Greenhill, AL Family murder-suicide","42454, ",3/25/2016,2,2,3,Yes,White American or European American,Male,34.759257,-86.602493
+28,"Sherman, Texas","Sherman, Texas",3/21/2016,4,0,3,Unknown,Unknown,Male,33.635662,-96.60888
+29,"Sherman, TX Family murder-suicide","42450, ",3/21/2016,4,0,3,Unknown,White American or European American,Male,33.635662,-96.60888
+30,"Louisville, Kentucky","Louisville, Kentucky",3/20/2016,4,0,3,Unknown,White American or European American,Male,38.252665,-85.758456
+31,"Louisville, KY Family Murder-Suicide","42449, ",3/20/2016,4,0,3,Yes,White American or European American,Male,38.252665,-85.758456
+32,"Plantation, Florida","Plantation, Florida",3/19/2016,1,4,5,Unknown,Unknown,Unknown,26.127586,-80.233104
+33,Wetumpka Drive-by,"42448, ",3/19/2016,2,2,4,Unknown,Black American or African American,Male,32.543745,-86.211913
+34,Spring Break Party shooting,"42448, ",3/19/2016,1,4,5,Unknown,Unknown,Unknown,26.127586,-80.233104
+35,Atlanta Nightclub shooting,"42444, ",3/15/2016,0,4,4,Unknown,Unknown,Unknown,33.748995,-84.387982
+36,Florida Family celebration ends in shooting,"42442, ",3/13/2016,0,4,4,Unknown,Unknown,Unknown,26.640628,-81.872308
+37,"Elberton, Georgia murder-suicide","42441, ",3/12/2016,2,2,3,Unknown,Unknown,Male,34.111223,-82.867084
+38,"Trenton, NJ sidewalk shooting","42440, ",3/11/2016,0,5,5,Unknown,Unknown,Unknown,40.217053,-74.742938
+39,Detroit Drive-by,"42440, ",3/11/2016,2,2,4,Unknown,Unknown,Unknown,42.331427,-83.045754
+40,"Pittsburgh, Pennsylvania","Pittsburgh, Pennsylvania",3/9/2016,6,3,9,Unknown,Unknown,Male,40.440625,-79.995886
+41,Wilkinsburg BBQ cookout shootout,"42438, ",3/9/2016,5,3,8,Unknown,Unknown,Male,40.441736,-79.881994
+42,"Kansas City, Kansas","Kansas City, Kansas",3/7/2016,5,0,5,Unknown,Some other race,Male,39.114053,-94.627464
+43,"Lafayette, LA drive by","42436, ",3/7/2016,0,4,4,Unknown,Unknown,Unknown,30.22409,-92.019843
+44,Kansas City Home Invasion,"42436, ",3/7/2016,4,0,4,Unknown,Some other race,Male,39.114053,-94.627464
+45,"Chelsea, Massachusetts","Chelsea, Massachusetts",3/6/2016,1,6,7,Unknown,Unknown,Male,42.391764,-71.032828
+46,"Chelsea, MA empty apartment party shooting","42435, ",3/6/2016,1,6,7,Unknown,Some other race,Male,42.391764,-71.032828
+47,"Roswell, GA Hookah shootout","42435, ",3/6/2016,0,4,4,Unknown,Black American or African American,Male,34.023243,-84.361556
+48,Wichita Nightclub shooting,"42434, ",3/5/2016,0,4,4,Unknown,Unknown,Unknown,37.687176,-97.330053
+49,Detroit Strip Club Shootout,"42428, ",2/28/2016,0,5,5,Unknown,Black American or African American,Male,42.331427,-83.045754
+50,Riverside restaurant shooting,"42428, ",2/28/2016,1,3,4,Unknown,Some other race,Male,33.997197,-117.48548
+51,"Woodbridge, Virginia","Woodbridge,  Virginia",2/27/2016,2,2,4,Unknown,Black American or African American,Male,38.6697,-77.3524
+52,"Belfair, Washington","Belfair, Washington",2/26/2016,5,0,4,Unknown,White American or European American,Male,47.5033,-122.931
+53,Excel Industries mass shooting,"Hesston, Kansas",2/25/2016,3,14,17,Unclear,Black,M,,
+54,"Hesston, Kansas","Hesston, Kansas",2/25/2016,4,14,17,Unknown,Black American or African American,Male,38.1368,-97.4268
+55,"Belfair, WA Family murder-suicide","42425, ",2/25/2016,5,0,4,Unknown,White American or European American,Male,47.451459,-122.826946
+56,"Glendale, Arizona","Glendale, Arizona",2/23/2016,5,0,4,Yes,Two or more races,Male,33.5927,-112.163
+57,Arizona Family Murder,"42423, ",2/23/2016,5,0,4,Unknown,White American or European American,Male,33.448377,-112.074037
+58,Missouri Highway shooting,"42421, ",2/21/2016,1,3,4,Unknown,Black American or African American,Male,38.77144,-90.370949
+59,Houston Drive-by,"42421, ",2/21/2016,0,5,5,Unknown,Unknown,Unknown,29.760427,-95.369803
+60,Kalamazoo shooting spree,"Kalamazoo County, Michigan",2/20/2016,6,2,8,Unclear,White,M,,
+61,"Iuka, Mississippi","Iuka, Mississippi",2/20/2016,2,3,4,Unknown,White American or European American,Male,34.7404,-88.1383
+62,"Kalamazoo, Michigan","Kalamazoo, Michigan",2/20/2016,6,2,8,Unknown,White American or European American,Male,42.2354,-85.676
+63,Florida Hookah Bar Shooting,"42420, ",2/20/2016,1,3,4,Unknown,Unknown,Unknown,27.950575,-82.457178
+64,Kalamazoo Uber Driver Spree Killing,"42420, ",2/20/2016,6,2,8,No,White American or European American,Male,42.291707,-85.587229
+65,"Vallejo, CA car shooting","42419, ",2/19/2016,2,2,4,Unknown,Unknown,Unknown,38.104086,-122.256637
+66,Michigan school shooting,"42409, ",2/9/2016,0,3,3,Unknown,Black American or African American,Male,43.201126,-86.238946
+67,"Orlando, Florida","Orlando, Florida",2/7/2016,2,10,12,Unknown,Some other race,Male,28.4541,-81.4646
+68,Nightclub fight turns into shootout,"42407, ",2/7/2016,1,7,8,Unknown,Unknown,Unknown,43.16103,-77.610922
+69,"Tampa, FL Strip club shooting","42406, ",2/6/2016,2,6,8,Unknown,Unknown,Unknown,27.950575,-82.457178
+70,"Los Angeles, CA street shooting","42406, ",2/6/2016,1,3,4,Unknown,Unknown,Unknown,34.052234,-118.243685
+71,Texas teen commits family murder suicide,"42406, ",2/6/2016,4,0,3,Unknown,White American or European American,Male,29.209684,-99.786168
+72,New Orleans gas station shoot-out,"42400, ",1/31/2016,0,3,3,Unknown,Black American or African American,Male,29.951066,-90.071532
+73,"Glendale, AZ House Party shooting","42399, ",1/30/2016,3,5,8,Unknown,Unknown,Male,33.538652,-112.185987
+74,"Caroline County, VA Family Murder Suicide","42398, ",1/29/2016,2,2,3,Unknown,Unknown,Male,38.044556,-77.286488
+75,"Chesapeake, Virginia","Chesapeake, Virginia",1/27/2016,6,0,5,Yes,White American or European American,Male,36.7921,-76.3293
+76,"Chesapeake, VA Family Murder Suicide","42396, ",1/27/2016,6,0,5,Unknown,White American or European American,Male,36.768209,-76.287493
+77,"Perris, CA Mexican restaurant shooting","42394, ",1/25/2016,1,4,5,Unknown,Unknown,Male,33.782519,-117.228648
+78,Florida family murder,"42392, ",1/23/2016,3,0,3,Unknown,White American or European American,Male,30.754181,-86.572799
+79,Los Angeles Drive-by,"42392, ",1/23/2016,2,2,4,Unknown,Unknown,Unknown,34.052234,-118.243685
+80,"Gloucester County, VA, House Party","42386, ",1/17/2016,1,3,4,Unknown,Black American or African American,Male,37.40264,-76.458559
+81,"Wilmington, DE robbery","42380, ",1/11/2016,1,4,5,Unknown,Black American or African American,Male,39.739072,-75.539788
+82,"Roadside in Memphis, Tennessee","42376, ",1/7/2016,1,3,4,Unknown,Unknown,Unknown,35.149534,-90.04898
+83,"Residence in Lakeland, Florida","42375, ",1/6/2016,3,1,4,Unknown,Black American or African American,Male,28.039465,-81.949804
+84,"Omaha, Nebraska","Omaha, Nebraska",12/6/2015,2,3,5,Unknown,Black American or African American,Male,41.3138,-96.0814
+85,San Bernardino mass shooting,"San Bernardino, California",12/2/2015,14,21,35,Unclear,Other,M/F,,
+86,"San Bernardino, California","San Bernardino, California",12/2/2015,16,21,35,Unknown,Asian American,Male/Female,34.13973446,-117.2942444
+87,Planned Parenthood clinic,"Colorado Springs, Colorado",11/27/2015,3,9,12,Unclear,White,M,,
+88,"Colorado Springs, Colorado","Colorado Springs, Colorado",11/27/2015,3,9,12,Unknown,White American or European American,Male,38.86730659,-104.7572279
+89,"Columbus, Ohio","Columbus, Ohio",11/23/2015,4,1,4,Unknown,White American or European American,Male,39.98861445,-82.98904135
+90,"Minneapolis, Minnesota","Minneapolis, Minnesota",11/23/2015,0,5,5,Unknown,White American or European American,Male,44.96358722,-93.26783687
+91,"Tennessee Colony, Texas","Tennessee Colony, Texas",11/15/2015,6,0,6,Unknown,White American or European American,Male,31.8076,-95.8069
+92,"Jacksonville, Florida","Jacksonville, Florida",11/13/2015,4,1,4,Unknown,Black American or African American,Male,30.33216122,-81.67576993
+93,"Waycross, GA","Waycross, Georgia",11/7/2015,1,2,3,Yes,Black American or African American,Male,31.21094544,-82.35793452
+94,"Oakland, Maine","Oakland, Maine",11/4/2015,4,0,3,Unknown,Unknown,Male,44.54994725,-69.70782299
+95,Colorado Springs shooting rampage,"Colorado Springs, Colorado",10/31/2015,3,0,3,Unclear,White ,M,,
+96,Colorado Springs,"Colorado Springs, Colorado",10/31/2015,4,0,3,Unknown,White American or European American,Male,38.86730659,-104.7572279
+97,"Colerain Township, Ohio","Colerain Township, Ohio",10/21/2015,2,1,3,Unknown,White American or European American,Male,39.253268,-84.599655
+98,Northern Arizona University at Flagstaff Campus,"Flagstaff, Arizona",10/9/2015,1,3,4,Unknown,White American or European American,Male,35.1725658,-111.6585435
+99,Umpqua Community College shooting,"Roseburg, Oregon",10/1/2015,9,9,18,Unclear,Other,Male,,
+100,Umpqua Community College,"Roseburg, Oregon",10/1/2015,10,7,16,Unknown,Two or more races,Male,43.22205555,-123.3522367
+101,"Inglis, Florida","Inglis, Florida",10/1/2015,3,1,3,Unknown,White American or European American,Male,29.03270634,-82.65919302
+102,Hill Haven Event Center (Formerly Club CJ's),"Greenville, Georgia",9/27/2015,0,10,10,Unknown,Black American or African American,Male,33.02912644,-84.7143335
+103,"Platte, South Dakota","Platte, South Dakota",9/17/2015,6,0,5,Unknown,White American or European American,Male,43.38682722,-98.84357239
+104,"Clearbrook (Greenwood), Minnesota","Clearbrook (Greenwood), Minnesota",9/10/2015,5,0,4,Yes,White American or European American,Male,47.69618799,-95.42844094
+105,"Bristol, Tennessee","Bristol, Tennessee",8/29/2015,3,1,4,Unknown,White American or European American,Male,36.55605824,-82.21429551
+106,Virginia WDBJ live TV interview shooting,"Roanoke, Virginia",8/26/2015,3,1,3,Unknown,Black American or African American,Male,37.27823366,-79.95816104
+107,Parking lot near Boys and Girls Club,"Rochester, New York",8/19/2015,3,4,7,Unknown,Black American or African American,Male,43.1696837,-77.614337
+108,"Houston, Texas","Houston, Texas",8/8/2015,8,0,8,Unknown,Black American or African American,Male,29.79705548,-95.36763856
+109,"Grand 16 Theatre, Louisiana","Lafayette, Louisiana",7/23/2015,3,9,11,Yes,White American or European American,Male,30.21233538,-92.0316453
+110,Suwanee,"Suwanee, Georgia",7/22/2015,4,1,4,Unknown,White American or European American,Male,34.05057545,-84.06872262
+111,Chattanooga military recruitment center,"Chattanooga, Tennessee",7/16/2015,5,2,7,Unclear,Other,Male,35.047157,-85.311819
+112,"Amnicola Training Center, Chattanooga","Chattanooga, Tennessee",7/16/2015,5,3,7,Yes,White American or European American,Male,35.09318123,-85.23676751
+113,River Forest,"River Forest, Illinois",7/12/2015,2,3,4,Unknown,Unknown,Male,41.89499946,-87.81941392
+114,Boom Boom Room,"Morven, North Carolina",6/20/2015,0,4,4,Unknown,Black American or African American/Unknown,Male,34.86379864,-79.9996781
+115,Charleston Church Shooting,"Charleston, South Carolina",6/17/2015,9,1,10,unknown,White,Male,32.788387,-79.933143
+116,Mother Emanuel AME Church,"Charleston, South Carolina",6/17/2015,9,0,9,Unknown,White American or European American,Male,32.8129729,-79.96693995
+117,Miami Gardens,"Miami Gardens, Florida",6/16/2015,0,4,4,Unknown,Black American or African American,Male,25.94326707,-80.24253243
+118,Trestle Trail bridge shooting,"Menasha, Wisconsin",6/11/2015,3,1,4,Yes,Latino,M,,
+119,Deer Lodge,"Deer Lodge, Montana",6/7/2015,5,0,4,Unknown,White American or European American,Male,46.39761858,-112.7329333
+120,Cleveland,"Cleveland, Ohio",5/31/2015,3,1,3,Unknown,Unknown,Male,41.47657557,-81.68051502
+121,Conyers,"Conyers, Georgia",5/31/2015,3,2,4,Unknown,White American or European American,Male,33.66086267,-84.02688527
+122,Club Maxey's,"Decatur, Illinois",5/25/2015,1,4,5,Unknown,Black American or African American,Male,39.85566372,-88.93346458
+123,Tucson,"Tucson, Arizona",5/12/2015,5,0,4,Yes,Unknown,Male,32.15358905,-110.9677647
+124,Annual motorcycle event in Newark,"Newark, New Jersey",5/10/2015,1,3,4,Unknown,Black American or African American,Male,40.73169648,-74.18417699
+125,Fox Cities Trestle Trail bridge over Little Lake Butte des Morts,"Menasha, Wisconsin",5/3/2015,4,1,4,Yes,Unknown,Male,44.20455909,-88.4484585
+126,Milwaukee,"Milwaukee, Wisconsin",5/1/2015,2,3,5,No,Unknown,Male,43.06420322,-87.96724385
+127,Gates Pub,"Gates, New York",4/25/2015,1,6,7,Unknown,Black American or African American,Male,43.15693027,-77.69300856
+128,Killeen,"Killeen, Texas",4/21/2015,2,3,5,Unknown,Black American or African American,Male,31.07925506,-97.73392317
+129,Phoenix,"Phoenix, Arizona",4/16/2015,5,0,4,Unknown,Some other race,Male,33.57145875,-112.0904854
+130,Rome,"Rome, Georgia",4/7/2015,1,3,4,No,Black American or African American,Male,34.26779152,-85.18822422
+131,Indianapolis,"Indianapolis, Indiana",4/5/2015,0,5,5,No,Unknown,Male,39.77725479,-86.14635359
+132,Daytona Beach,"Daytona Beach, Florida",4/3/2015,0,4,4,No,Black American or African American,Male,29.19313443,-81.10173014
+133,Tulsa,"Tulsa, Oklahoma",3/30/2015,4,0,3,Unknown,Asian American,Male,36.13543238,-95.91316117
+134,Panama City Beach,"Panama City Beach, Florida",3/28/2015,0,7,7,No,Black American or African American,Male,30.22540212,-85.87371301
+135,Little Water,"Little Water, New Mexico",3/19/2015,2,2,3,Unknown,Unknown,Male,36.44329,-108.723281
+136,Mesa,"Mesa, Arizona",3/18/2015,1,5,6,No,White American or European American,Male,33.42268696,-111.8163202
+137,Cottonwood,"Cottonwood, Alabama",3/15/2015,3,1,3,No,White American or European American,Male,31.0549687,-85.30100084
+138,Brookhaven,"Brookhaven, Mississippi",3/13/2015,2,3,5,Unknown,Black American or African American,Male,31.58036482,-90.44323475
+139,Tarboro,"Tarboro, North Carolina",2/28/2015,4,0,3,Yes,Black American or African American,Male,35.90434471,-77.55639964
+140,Birmingham's Washington Park,"Birmingham, Alabama",2/27/2015,1,2,3,No,Black American or African American,Male,33.5282865,-86.79550448
+141,Tyrone,"Tyrone, Missouri",2/26/2015,8,1,8,No,White American or European American,Male,37.204442,-91.876583
+142,Charlotte,"Charlotte, North Carolina",2/24/2015,3,0,3,No,Some other race,Male,35.226354,-80.836788
+143,Clarkesville,"Clarkesville, Georgia",2/22/2015,3,2,4,No,White American or European American,Male,34.61025711,-83.52918091
+144,Killeen,"Killeen, Texas",2/22/2015,4,1,4,No,Black American or African American,Male,31.07925506,-97.73392317
+145,Chapel Hill,"Chapel Hill, North Carolina",2/10/2015,3,0,3,No,White American or European American,Male,35.92681467,-79.03850407
+146,Moon Lake,"New Port Richey, Florida",2/9/2015,3,1,4,No,White American or European American/Some other Race,Male/Female,28.24653304,-82.71690259
+147,Monroeville Macy's,"Monroeville, Pennsylvania",2/7/2015,0,3,3,No,Black American or African American,Male,40.4257455,-79.76092565
+148,Douglasville,"Douglasville, Georgia",2/7/2015,5,2,6,No,Black American or African American,Male,33.71059292,-84.71564276
+149,"King, North Carolina","King, North Carolina",2/4/2015,4,0,3,Unknown,White American or European American,Male,36.27617912,-80.35501402
+150,McAvan's Pub,"Syracuse, New York",2/1/2015,0,6,6,No,Black American or African American,Male,43.04093416,-76.14376763
+151,LaGrange,"LaGrange, Georgia",1/28/2015,5,0,5,No,White American or European American,Male,33.03607062,-85.0287065
+152,Queens,"New York City, New York",1/24/2015,4,1,4,No,Black American or African American,Male,40.68996411,-73.8720502
+153,Omaha,"Omaha, Nebraska",1/24/2015,3,5,8,No,Black American or African American,Male,41.265922,-96.05381421
+154,Moscow,"Moscow, Idaho",1/10/2015,3,1,4,No,Asian American,Male,46.73059479,-116.9990042
+155,Memphis,"Memphis, Tennessee",1/1/2015,0,5,5,No,Black American or African American,Male,35.10528976,-89.97734924
+156,"Pennsburg, Souderton, Lansdale, Harleysville","Pennsburg, Souderton, Lansdale, Harleysville, Pennsylvania",12/15/2014,7,1,7,Yes,White American or European American,Male,40.39359306,-75.49640881
+157,Morgantown,"Morgantown, West Virginia",12/1/2014,5,0,4,No,White American or European American,Male,39.63400851,-79.94839325
+158,Florida State University,"Tallahassee, Florida",11/19/2014,1,3,3,Yes,Black American or African American,Male,30.4549394,-84.25264151
+159,Marysville-Pilchuck High School shooting,"Marysville, Washington",10/24/2014,5,1,6,Unclear,Native American,Male,48.050824,-122.176918
+160,Marysville-Pilchuck High School,"Marysville, Washington",10/24/2014,5,1,5,No,Native American or Alaska Native,Male,48.04802409,-122.1359622
+161,Albuquerque Auto Shop,"Albuquerque, New Mexico",8/8/2014,2,3,4,No,Some other race,Male,35.15290522,-106.7791378
+162,Bourbon Street New Orleans,"New Orleans, Louisiana",6/29/2014,1,9,10,No,Two or more races,Male,30.0687242,-89.93147412
+163,Nellis Plaza,"Las Vegas, Nevada",6/8/2014,5,0,3,No,White American or European American,Male/Female,36.18931923,-115.3264875
+164,Seattle Pacific University,"Seattle, Washington",6/5/2014,1,2,3,Yes,Some other race,Male,47.62199575,-122.323646
+165,Isla Vista mass murder,"Santa Barbara, California",5/23/2014,6,13,19,Yes,White,M,,
+166,Isla Vista,"Isla Vista, California",5/23/2014,7,7,10,Yes,White American or European American,Male,34.4145857,-119.8581209
+167,Kennesaw FedEx,"Kennesaw, Georgia",4/29/2014,1,6,6,No,White American or European American,Male,34.02529674,-84.61766831
+168,Fort Hood shooting 2,"Fort Hood, Texas",4/3/2014,3,12,15,Unclear,Latino,M,,
+169,Fort Hood,"Killeen, Texas",4/2/2014,4,16,19,Yes,Some other race,Male,31.07925506,-97.73392317
+170,San Francisco Tenderloin,"San Francisco, CA",3/23/2014,0,8,8,No,Black American or African American,Male,37.75457839,-122.4424343
+171,Alturas tribal shooting,"Alturas, California",2/20/2014,4,2,6,Unknown,Native American,Female,41.487104,-120.542237
+172,Cedarville Rancheria Tribe,"Alturas, California",2/20/2014,4,2,6,No,Native American or Alaska Native,Female,41.4911123,-120.549091
+173,Centennial Hill Bar & Grill,"Montgomery, Alabama",12/28/2013,3,5,8,No,Black American or African American,Male,32.34729571,-86.26730242
+174,Los Angeles International Airport (LAX),"Los Angeles, California",11/1/2013,1,3,4,No,White American or European American,Male,34.17622092,-118.5399542
+175,Sparks Middle School,"Sparks, Nevada",10/21/2013,2,2,3,Unknown,Some other race,Male,39.54058388,-119.748291
+176,Washington Navy Yard shooting,"Washington, D.C.",9/16/2013,12,8,20,Yes,Black,Male,38.874981,-76.99453
+177,Washington Navy Yard,Washington D.C.,9/16/2013,13,3,15,Yes,Black American or African American,Male,38.90480894,-77.01629717
+178,Oklahoma City Residence,"Oklahoma City, Oklahoma",8/14/2013,4,0,4,Yes,White American or European American,Male,35.46779189,-97.5191631
+179,Homes in Desoto and Dallas,"Dallas, Texas",8/7/2013,4,4,8,Unknown,Black American or African American,Male,32.79480596,-96.76631094
+180,Ross Township Supervisor Council Meeting,"Salisbury , Pennsylvania",8/5/2013,3,3,6,No,White American or European American,Male,39.75344279,-79.08435956
+181,Hialeah apartment shooting,"Hialeah, Florida",7/26/2013,7,0,7,Unclear,Latino,Male,25.8670105,-80.29146268
+182,Hialeah Apartments,"Hialeah, Florida",7/26/2013,7,0,6,No,Some other race,Male,25.85294547,-80.28316975
+183,Santa Monica rampage,"Santa Monica, California",6/7/2013,6,3,9,Yes,White,Male,34.008617,-118.494754
+184,Santa Monica College,"Santa Monica, California",6/7/2013,6,3,8,Yes,White American or European American,Male,34.02319149,-118.4815644
+185,Village of Manchester in Illinois,"Manchester, Illinois",4/24/2013,7,1,7,Unknown,White American or European American,Male,39.54231335,-90.33029852
+186,Pinewood Village Apartment shooting,"Federal Way, Washington",4/21/2013,5,0,5,No,Black,Male,47.3129607,-122.3393665
+187,Pinewood Village Apartments,"Federal Way, Washington",4/21/2013,5,0,4,Unknown,Black American or African American,Male,47.30909721,-122.3357553
+188,Mohawk Valley shootings,"Herkimer County, New York",3/13/2013,5,2,7,No,White,Male,43.045601,-74.984891
+189,Mohawk and Herkimer Villages in New York,"Mohawk, New York",3/13/2013,5,2,6,No,White American or European American,Male,43.0104011,-75.0075119
+190,"Ladera Ranch, Santa Ana, Tustin and Orange","Ladera Ranch, California",2/19/2013,4,3,6,Yes,White American or European American,Male,33.54961059,-117.6415707
+191,Los Angeles Police Department,"Irvine, California",2/3/2013,4,2,7,Yes,Black American or African American,Male,33.67803464,-117.773628
+192,Phoenix Law Firm,"Phoenix, Arizona",1/30/2013,3,1,3,Unknown,White American or European American,Male,33.57145875,-112.0904854
+193,South Valley Residence,"South Valley, Albuquerque, New Mexico",1/19/2013,5,0,5,Yes,Some other race,Male,35.15290522,-106.7791378
+194,Newtown school shooting,"Newtown, Connecticut",12/14/2012,28,2,30,Yes,white,Male,41.4123225,-73.31142358
+195,Sandy Hook Elementary School,"Newtown, Connecticut",12/14/2012,28,2,29,Yes,White American or European American,Male,41.41190846,-73.31196267
+196,Clackamas Town Center,"Happy Valley, Oregon",12/11/2012,3,1,3,No,Some other race,Male,45.44853107,-122.5440133
+197,Azana Spa in Brookfield,"Brookfield, Wisconsin",10/21/2012,4,4,7,No,Black American or African American,Male,43.06396691,-88.12299758
+198,The Spot Nightclub,"Miami, Florida",9/28/2012,0,15,15,Unknown,Black American or African American,Male,25.79653943,-80.20840397
+199,Accent Signage Systems shooting,"Minneapolis, Minnesota",9/27/2012,7,1,8,Yes,white,Male,44.9772995,-93.2654692
+200,Accent Signage Systems in Minneapolis,"Minneapolis, Minnesota",9/27/2012,7,2,8,Yes,White American or European American,Male,44.96358722,-93.26783687
+201,Sikh temple shooting,"Oak Creek, Wisconsin",8/5/2012,7,3,10,Yes,white,Male,42.8858503,-87.8631362
+202,Sikh Temple in Wisconsin,"Oak Creek, Wisconsin",8/5/2012,7,4,10,No,White American or European American,Male,42.88027442,-87.90087079
+203,Aurora theater shooting,"Aurora, Colorado",7/20/2012,12,70,82,Yes,white,Male,39.709283,-104.823488
+204,Movie Theater in Aurora,"Denver, Colorado",7/20/2012,12,58,70,Yes,White American or European American,Male,39.72941874,-104.9825207
+205,University Heights Apartments in Auburn,"Auburn, Alabama",6/9/2012,3,3,6,Unknown,Black American or African American,Male,32.60598014,-85.48989253
+206,Cafe in Seattle,"Seattle, Washington",5/30/2012,6,1,6,Yes,White American or European American,Male,47.62199575,-122.323646
+207,Seattle cafe shooting,"Seattle, Washington",5/20/2012,6,1,7,Yes,white,Male,47.6038321,-122.3300624
+208,"North Tulsa, Oklahoma","Tulsa, Oklahoma",4/6/2012,3,2,5,No,White American or European American,Male,36.13543238,-95.91316117
+209,Oikos University killings,"Oakland, California",4/2/2012,7,3,10,Yes,Asian,Male,37.8043808,-122.2708166
+210,Oikos University,"Oakland, California",4/2/2012,7,3,10,Yes,Asian American,Male,37.79176806,-122.2153171
+211,Chardon High School,"Chardon, Ohio",2/27/2012,3,3,6,Yes,White American or European American,Male,41.58025541,-81.20812625
+212,Su Jung Health Sauna shooting,"Norcross, Georgia",2/22/2012,5,0,5,Yes,Asian,Male,33.9412127,-84.2135309
+213,Su Jung Health Sauna,"Norcross, Georgia",2/22/2012,5,0,4,Yes,Asian American,Male,33.94104379,-84.20985979
+214,Ensley Birmingham,"Birmingham, Alabama",1/29/2012,5,0,5,No,Black American or African American,Male,33.5282865,-86.79550448
+215,Seal Beach shooting,"Seal Beach, California",10/14/2011,8,1,9,Yes,white,Male,33.741176,-118.1046356
+216,Salon Meritage,"Seal Beach, California",10/12/2011,8,1,9,Yes,White American or European American,Male,33.75432632,-118.0715378
+217,IHOP shooting,"Carson City, Nevada",9/6/2011,5,7,12,Yes,Latino,Male,39.1637984,-119.7674034
+218,Carson City IHOP,"Carson City, Nevada",9/6/2011,5,7,11,Yes,Some other race,Male,39.16464203,-119.7763025
+219,Residences in Grand Rapids,"Grand Rapids, Michigan",7/7/2011,8,2,9,Yes,Black American or African American,Male,42.96920434,-85.66008902
+220,Southern Union State Community College,"Opelika, Alabama",4/6/2011,1,3,4,Yes,White American or European American,Male,32.66240106,-85.37706931
+221,Youngstown State University,"Youngstown, Ohio",2/6/2011,1,11,12,Unknown,Black American or African American,Male,41.09933958,-80.64631705
+222,Tucson shooting,"Tucson, Arizona",1/8/2011,6,13,19,Yes,white,Male,32.2217429,-110.926479
+223,"Tucson, Arizona","Tucson, Arizona",1/8/2011,6,13,19,Yes,White American or European American,Male,32.15358905,-110.9677647
+224,Hartford Beer Distributor shooting,"Manchester, Connecticut",8/3/2010,9,2,11,No,black,Male,41.7759324,-72.5214755
+225,Hartford Beer Distributors,"Manchester, Connecticut",8/3/2010,9,2,10,Unknown,Black American or African American,Male,41.78013821,-72.51918655
+226,University of Alabama in Huntsville,"Huntsville, Alabama",2/12/2010,0,3,6,No,White American or European American,Female,34.72827538,-86.6723055
+227,Coffee shop police killings,"Parkland, Washington",11/29/2009,4,1,5,Yes,black,Male,47.155846,-122.437031
+228,Parkland Coffee Shop,"Lakewood, Washington",11/29/2009,5,0,4,Yes,Black American or African American,Male,47.16267579,-122.5296574
+229,Fort Hood massacre,"Fort Hood, Texas",11/5/2009,13,30,43,Unclear,Other,Male,31.2011305,-97.77156996
+230,Fort Hood Army Base,"Fort Hood, Texas",11/5/2009,13,32,45,Yes,White American or European American,Male,31.13814354,-97.77797804
+231,Binghamton shootings,"Binghamton, New York",4/3/2009,14,4,18,Yes,Asian,Male,42.0986867,-75.9179738
+232,Immigration Services Center in Binghamton,"Binghamton, New York",4/3/2009,14,4,17,Yes,Asian American,Male,42.10140103,-75.90922294
+233,Carthage nursing home shooting,"Carthage, North Carolina",3/29/2009,8,3,11,Yes,white,Male,35.345802,-79.4170543
+234,"Rivermark, Santa Clara, California","Santa Clara, California",3/29/2009,6,1,6,No,Asian American,Male,37.36463172,-121.9679315
+235,Pinelake Health and Rehab nursing home,"Carthage, North Carolina",3/29/2009,8,2,10,Yes,White American or European American,Male,35.33985609,-79.41381725
+236,"Geneva County, Alabama","Geneva, Alabama",3/10/2009,11,6,16,No,White American or European American,Male,31.04367594,-85.8763466
+237,"Covina, California","Covina, California",12/24/2008,10,2,11,No,White American or European American,Male,34.09026669,-117.8819958
+238,University of Central Arkansas,"Conway, Arkansas",10/26/2008,0,1,3,No,Black American or African American,Male,35.08130744,-92.43278275
+239,South Mountain Community College,"Phoenix, Arizona",7/24/2008,0,3,3,No,Black American or African American,Male,33.57145875,-112.0904854
+240,Atlantis Plastics shooting,"Henderson, Kentucky",6/25/2008,6,1,7,No,white,Male,37.76721,-87.5573742
+241,Atlantis Plastics,"Henderson, Kentucky",6/25/2008,7,1,7,No,White American or European American,Male,37.84040411,-87.57853755
+242,Northern Illinois University shooting,"DeKalb, Illinois",2/14/2008,5,21,26,Yes,white,Male,41.9294736,-88.7503647
+243,Northern Illinois University,"DeKalb, Illinois",2/14/2008,6,17,22,Yes,White American or European American,Male,41.93172129,-88.74814853
+244,Kirkwood City Council shooting,"Kirkwood, Missouri",2/7/2008,6,2,8,No,black,Male,38.5833862,-90.406785
+245,Kirkwood City Hall,"Kirkwood, Missouri",2/7/2008,6,2,7,No,Black American or African American,Male,38.57889169,-90.42023754
+246,"Carnation, Washington","Carnation, Washington",12/24/2007,6,0,6,No,White American or European American,Male/Female,47.64628742,-121.9088524
+247,Mojave High School Bus,"Las Vegas, Nevada",12/11/2007,0,6,6,No,Black American or African American,Male,36.18931923,-115.3264875
+248,Youth With A Mission and New Life Church,"Arvada, Colorado",12/9/2007,5,5,9,No,White American or European American,Male,39.81087474,-105.173715
+249,Westroads Mall shooting,"Omaha, Nebraska",12/5/2007,9,4,13,Yes,white,Male,41.2587317,-95.9378732
+250,Westroads Mall,"Omaha, Nebraska",12/5/2007,9,4,12,Yes,White American or European American,Male,41.265922,-96.05381421
+251,South Middle School Football Game,"Saginaw, Michigan",10/25/2007,0,4,4,No,Black American or African American,Male,43.41929117,-83.95032759
+252,SuccessTech Academy,"Cleveland, Ohio",10/11/2007,1,4,4,Yes,White American or European American,Male,41.47657557,-81.68051502
+253,Crandon shooting,"Crandon, Wisconsin",10/7/2007,6,1,7,Unclear,white,Male,45.5719072,-88.9028922
+254,"Apartment in Crandon, Wisconsin","Crandon, Wisconsin",10/7/2007,7,1,7,No,White American or European American,Male,45.56871416,-88.89729022
+255,Virginia Tech massacre,"Blacksburg, Virginia",4/16/2007,32,23,55,Yes,Asian,Male,37.2295733,-80.4139393
+256,Virginia Tech  Campus,"Blacksburg, Virginia",4/16/2007,33,17,49,Yes,Asian American,Male,37.22995471,-80.42768677
+257,Springwater Trail High School,"Gresham, Oregon",4/10/2007,0,10,10,No,Some other race,Male,45.50216511,-122.4412759
+258,Trolley Square shooting,"Salt Lake City, Utah",2/12/2007,6,4,10,Unclear,white,Male,40.7606467,-111.89109
+259,Trolley Square,"Salt Lake City, Utah",2/12/2007,6,4,9,Unknown,White American or European American,Male,40.77787404,-111.9312168
+260,Amish school shooting,"Lancaster County, Pennsylvania",10/2/2006,6,5,11,No,white,Male,39.9589,-76.0806
+261,West Nickel Mines Amish School,"Nickel Mines, Lancaster, Pennsylvania",10/2/2006,6,5,10,Unknown,White American or European American,Male,40.04214385,-76.30100872
+262,Duquesne University,"Pittsburgh, Pennsylvania",9/17/2006,0,5,5,Unknown,Black American or African American,Male,40.43948548,-79.97631581
+263,Orange High School,"Hillsborough, North Carolina",8/30/2006,1,2,3,Yes,Some other race,Male,36.04099857,-79.09701201
+264,Essex Elementary School,"Essex Junction, Vermont",8/24/2006,2,2,4,Yes,Black American or African American,Male,44.49022039,-73.11400628
+265,Capitol Hill massacre,"Seattle, Washington",3/25/2006,7,2,9,No,white,Male,47.6229,-122.3165
+266,"Party in Capitol Hill, Seattle","Seattle, Washington",3/25/2006,7,2,8,No,White American or European American,Male,47.62199575,-122.323646
+267,Goleta postal shootings,"Goleta, California",1/30/2006,8,0,8,Yes,white,Female,34.436283,-119.8714406
+268,Goleta Post Office,"Goleta, California",1/30/2006,8,0,7,Yes,White American or European American,Female,34.43606107,-119.8593619
+269,Red Lake massacre,"Red Lake, Minnesota",3/21/2005,10,5,15,Yes,Native American,Male,47.876346,-95.0169401
+270,Red Lake High School,"Red Lake, Minnesota",3/21/2005,10,5,14,Yes,Native American or Alaska Native,Male,47.87067289,-95.00529009
+271,Living Church of God shooting,"Brookfield, Wisconsin",3/12/2005,7,4,11,Yes,white,Male,43.0605671,-88.1064787
+272,Living Church of God,"Brookfield, Wisconsin",3/12/2005,8,4,11,No,White American or European American,Male,43.06396691,-88.12299758
+273,Tyler Courthouse,"Tyler, Texas",2/24/2005,3,4,6,Unknown,Some other race,Male,32.3154272,-95.30501087
+274,Damageplan show shooting,"Columbus, Ohio",12/8/2004,5,7,12,Yes,white,Male,39.9622601,-83.0007065
+275,Damageplan show at the Alrosa Villa Nightclub,"Columbus, Ohio",12/8/2004,5,7,11,Yes,White American or European American,Male,39.98861445,-82.98904135
+276,"Birchwood, Wisconsin","Birchwood, Wisconsin",11/21/2004,6,2,8,No,Asian American,Male,45.65773714,-91.55077175
+277,Windy City Core Supply Warehouse,"Chicago, Illinois",8/27/2003,7,0,6,No,Some other race,Male,41.83928045,-87.68818145
+278,Lockheed Martin shooting,"Meridian, Mississippi",7/8/2003,7,8,15,Yes,white,Male,32.376081,-88.68978002
+279,Lockheed Martin,"Meridian, Mississippi",7/8/2003,7,8,14,No,White American or European American,Male,32.38455246,-88.68967949
+280,Case Western Reserve University,"Cleveland, Ohio",5/9/2003,1,2,3,No,Asian American,Male,41.47657557,-81.68051502
+281,University of Arizona College of Nursing,"Tucson, Arizona",10/28/2002,4,0,3,No,Some other race,Male,32.15358905,-110.9677647
+282,Appalachian School of Law,"Grundy, Virginia",1/16/2002,3,3,6,No,Black American or African American,Male,37.27537712,-82.09877234
+283,Santana High School,"Santee, San Diego, California",3/5/2001,2,13,15,No,White American or European American,Male,32.86357277,-117.1281628
+284,Navistar shooting,"Melrose Park, Illinois",2/5/2001,5,4,9,No,black,Male,41.9005865,-87.8567277
+285,Navistar International,"Melrose Park, Illinois",2/5/2001,6,4,9,No,Black American or African American,Male,41.90289602,-87.8643021
+286,Wakefield massacre,"Wakefield, Massachusetts",12/26/2000,7,0,7,Yes,white,Male,42.506484,-71.0728306
+287,Edgewater Technology,"Wakefield, Boston, Massachusetts",12/26/2000,7,0,7,No,Some other race,Male,42.30904091,-71.10271358
+288,Hotel shooting,"Tampa, Florida",12/30/1999,5,3,8,Yes,Latino,Male,27.9477595,-82.458444
+289,Radisson Bay Harbor Inn,"Tampa, Florida",12/30/1999,5,3,8,No,Some other race,Male,27.99601861,-82.44503769
+290,Fort Gibson Middle School,"Fort Gibson, Oklahoma",12/6/1999,0,4,4,No,White American or European American,Male,35.77669911,-95.25996596
+291,Xerox killings,"Honolulu, Hawaii",11/2/1999,7,0,7,Yes,Asian,Male,21.3255125,-157.8473055
+292,Xerox Office Building,"Honolulu, Hawaii",11/2/1999,7,0,7,Yes,Asian American,Male,21.309106,-157.844998
+293,Wedgwood Baptist Church shooting,"Fort Worth, Texas",9/15/1999,8,7,15,Yes,white,Male,32.693397,-97.47067092
+294,Wedgwood Baptist Church,"Fort Worth, Texas",9/15/1999,8,7,14,Yes,White American or European American,Male,32.74802142,-97.31305148
+295,Atlanta day trading spree killings,"Atlanta, Georgia",7/29/1999,9,13,22,Yes,white,Male,33.7490987,-84.3901849
+296,Offices of All-Tech Investment Group and Momentum Securities,"Atlanta, Georgia",7/29/1999,10,12,21,Yes,White American or European American,Male,33.7629969,-84.4231328
+297,Heritage High School,"Conyers, Georgia",5/20/1999,0,6,6,No,White American or European American,Male,33.66086267,-84.02688527
+298,Columbine High School massacre,"Littleton, Colorado",4/20/1999,13,24,37,Yes,white,Male,39.6021065,-104.9877273
+299,Columbine High School,"Littleton, Colorado",4/20/1999,15,24,37,Yes,White American or European American,Male,39.59358263,-105.0152112
+300,Riverside City Hall,"Riverside, California",10/6/1998,0,6,6,No,Black American or African American,Male,33.93814348,-117.3948409
+301,Thurston High School shooting,"Springfield, Oregon",5/21/1998,4,25,29,Yes,white,Male,44.0462362,-123.0220289
+302,Thurston High School,"Springfield, Oregon",5/21/1998,4,25,29,Yes,White American or European American,Male,44.05489698,-123.0075562
+303,Parker Middle School Dance,"Edinboro, Pennsylvania",4/24/1998,1,3,4,Yes,White American or European American,Male,41.87617136,-80.12459632
+304,Westside Middle School killings,"Jonesboro, Arkansas",3/24/1998,5,10,15,No,white,Male,35.8209895,-90.6682606
+305,Westside Middle School,"Jonesboro, Arkansas",3/24/1998,5,10,15,No,White American or European American,Male,35.82083155,-90.67950058
+306,Connecticut Lottery shooting,"Newington, Connecticut",3/6/1998,5,1,6,Yes,white,Male,41.6856325,-72.72983827
+307,Connecticut State Lottery Headquarters,"Newington, Connecticut",3/6/1998,5,0,4,Yes,White American or European American,Male,41.68700845,-72.73083927
+308,Milwaukee Post Office,"Milwaukee, Wisconsin",12/19/1997,2,2,3,No,Black American or African American,Male,43.06420322,-87.96724385
+309,Caltrans maintenance yard shooting,"Orange, California",12/18/1997,5,2,7,No,Latino,Male,33.7877944,-117.8531119
+310,Caltrans Maintenance Yard,"Orange, California",12/18/1997,5,2,6,No,Some other race,Male,33.78935598,-117.820412
+311,Heath High School,"West Paducah, Kentucky",12/1/1997,3,5,8,Yes,White American or European American,Male,37.08506,-88.74422
+312,Pearl High School,"Pearl, Mississippi",10/1/1997,2,7,9,Yes,White American or European American,Male,32.27492783,-90.09470655
+313,R.E. Phelon Company shooting,"Aiken, South Carolina",9/15/1997,4,3,7,No,black,Male,33.5598586,-81.721952
+314,R.E. Phelon Company,"Aiken, South Carolina",9/15/1997,4,3,7,No,Black American or African American,Male,33.47524551,-81.72595949
+315,Bethel Regional High School,"Bethel, Alaska",2/19/1997,2,2,4,Yes,White American or European American,Male,60.79053882,-161.7927517
+316,San Diego State University,"San Diego, California",8/15/1996,3,0,3,No,White American or European American,Male,32.86357277,-117.1281628
+317,Fort Lauderdale revenge shooting,"Fort Lauderdale, Florida",2/9/1996,6,1,7,Yes,black,Male,26.1223084,-80.1433786
+318,Fort Lauderdale City Parks Office,"Fort Lauderdale, Florida",2/9/1996,7,0,6,No,Black American or African American,Male,26.11737018,-80.14865708
+319,Frontier Junior High School,"Moses Lake, Washington",2/2/1996,3,1,4,Yes,White American or European American,Male,47.12189424,-119.2750699
+320,Richland High School,"Lynnville, Tennessee",11/15/1995,2,1,3,Yes,White American or European American,Male,35.37810374,-87.00610559
+321,Walter Rossler Company massacre,"Corpus Christi, Texas",4/3/1995,6,0,6,No,unclear,Male,27.823713,-97.41739794
+322,Walter Rossler Company,"Corpus Christi, Texas",4/3/1995,6,0,5,No,Unknown,Male,27.73907518,-97.43073352
+323,Montclair Post Office,"Montclair, New Jersey",3/21/1995,4,1,5,No,White American or European American,Male,40.826184,-74.20862
+324,Downtown Chapel Hill,"Chapel Hill, North Carolina",1/26/1995,2,2,4,Yes,White American or European American,Male,35.92681467,-79.03850407
+325,Massachusetts Abortion Clinic,"Brookline, Massachusetts",12/30/1994,2,5,7,Yes,White American or European American,Male,42.32427392,-71.14080012
+326,Wickliffe Middle School,"Wickliffe, Ohio",11/7/1994,1,3,4,Yes,White American or European American,Male,41.60713735,-81.46902046
+327,Air Force base shooting,"Fairchild Air Force Base, Washington",6/20/1994,5,23,28,Yes,white,Male,47.61864486,-117.6483587
+328,Fairchild Air Force Base Hospital,"Fairchild Air Force Base, Washington",6/20/1994,5,23,27,Yes,White American or European American,Male,47.618456,-117.644099
+329,"Residence in Union, Kentucky","Union, Kentucky",5/26/1994,4,0,4,No,White American or European American,Male,38.95130818,-84.67066339
+330,Chelsea High School,"Chelsea, Michigan",12/16/1993,1,2,3,Yes,White American or European American,Male,42.31319376,-84.01868108
+331,Chuck E. Cheese's killings,"Aurora, Colorado",12/14/1993,4,1,5,Unclear,black,Male,39.754713,-104.835869
+332,Chuck E. Cheese in Aurora,"Aurora, Colorado",12/14/1993,4,1,5,Yes,Black American or African American,Male,39.69892933,-104.7871863
+333,Long Island Rail Road massacre,"Garden City, New York",12/7/1993,6,19,25,Yes,black,Male,40.7267682,-73.6342955
+334,Long Island Rail Road Commuter Train,"Garden City, New York",12/7/1993,6,19,25,No,Black American or African American,Male,40.72662266,-73.644712
+335,Central Middle School,"Sheridan, Wyoming",9/17/1993,1,4,4,No,White American or European American,Male,44.79051074,-106.9599165
+336,Luigi's shooting,"Fayetteville, North Carolina",8/6/1993,4,8,12,No,white,Male,35.0529931,-78.8787058
+337,Luigi's Restaurant in Fayetteville,"Fayetteville, North Carolina",8/6/1993,4,8,12,No,White American or European American,Male,35.07997086,-79.03796125
+338,Weber State University,"Ogden, Utah",7/8/1993,1,3,3,No,Asian American,Male,41.2281367,-111.9675317
+339,101 California Street shootings,"San Francisco, California",7/1/1993,9,6,15,No,white,Male,37.7789601,-122.419199
+340,Offices of Pettit & Martin in San Francisco,"San Francisco, California",7/1/1993,9,6,14,No,White American or European American,Male,37.75457839,-122.4424343
+341,Dearborn Post Office,"Dearborn, Michigan",5/6/1993,2,2,3,Unknown,Unknown,Male,42.31269522,-83.21293244
+342,Dana Point Post Office,"Dana Point, California",5/6/1993,1,5,6,Yes,White American or European American,Male,33.47316083,-117.696399
+343,Simon's Rock College of Bard,"Great Barrington, Massachusetts",12/14/1992,2,4,6,No,Asian American,Male,42.19358268,-73.36216339
+344,Watkins Glen killings,"Watkins Glen, New York",10/15/1992,5,0,5,Yes,white,Male,42.3810555,-76.8705777
+345,Schuyler County Office Building,"Watkins Glen, New York",10/15/1992,5,0,4,No,White American or European American,Male,42.38013875,-76.86724659
+346,Palo Duro High School,"Amarillo, Texas",9/11/1992,0,6,6,Unknown,Unknown,Male,35.18322484,-101.8805688
+347,Lindhurst High School shooting,"Olivehurst, California",5/1/1992,4,10,14,No,white,Male,39.07868761,-121.5475762
+348,Lindhurst High School,"Olivehurst, California",5/1/1992,4,10,14,Yes,White American or European American,Male,39.08174985,-121.5549539
+349,Royal Oak postal shootings,"Royal Oak, Michigan",11/14/1991,5,5,10,Yes,white,Male,42.4894801,-83.1446485
+350,Royal Oak Post Office,"Royal Oak, Michigan",11/14/1991,5,5,9,Yes,White American or European American,Male,42.50840203,-83.15387427
+351,University of Iowa shooting,"Iowa City, Iowa",11/1/1991,6,1,7,Unclear,Asian,Male,41.6606893,-91.5302214
+352,University of Iowa,"Iowa City, Iowa",11/1/1991,6,1,6,No,Asian American,Male,41.65589405,-91.53117986
+353,Luby's massacre,"Killeen, Texas",10/16/1991,24,20,44,No,white,Male,31.1171194,-97.7277959
+354,"Luby's Cafeteria in Killeen, Texas","Killeen, Texas",10/16/1991,24,20,43,Yes,White American or European American,Male,31.07925506,-97.73392317
+355,Ridgewood Post Office,"Ridgewood, New Jersey",10/10/1991,3,0,3,Yes,Black American or African American,Male,40.98213277,-74.11264731
+356,Wat Promkunaram Buddhist Temple,"Phoenix, Arizona",8/9/1991,9,0,9,No,Asian American/Some other race,Male,33.57145875,-112.0904854
+357,GMAC massacre,"Jacksonville, Florida",6/18/1990,10,4,14,No,black,Male,30.3321838,-81.655651
+358,GMAC Loan Office,"Jacksonville, Florida",6/17/1990,12,6,17,No,Black American or African American,Male,30.33216122,-81.67576993
+359,Standard Gravure shooting,"Louisville, Kentucky",9/14/1989,9,12,21,Yes,white,Male,38.2542376,-85.759407
+360,Standard Gravure Corporation,"Louisville, Kentucky",9/14/1989,9,12,20,Yes,White American or European American,Male,38.249432,-85.726243
+361,Orange Glenn Post Office,"Escondido, California",8/10/1989,4,1,4,No,White American or European American,Male,33.13439925,-117.0722528
+362,Stockton schoolyard shooting,"Stockton, California",1/17/1989,6,29,35,Yes,white,Male,37.9577016,-121.2907796
+363,Cleveland Elementary School,"Stockton, California",1/17/1989,6,30,35,Yes,White American or European American,Male,37.96631812,-121.3018775
+364,New Orleans Downtown Post Office,"New Orleans, Louisiana",12/14/1988,0,4,4,Unknown,Unknown,Male,30.0687242,-89.93147412
+365,Oakland Elementary School,"Greenwood, South Carolina",9/26/1988,2,9,11,Yes,White American or European American,Male,34.1928952,-82.15355508
+366,Comet Auto Parts and Montefiore School,"Chicago, Illinois",9/22/1988,5,2,6,No,Black American or African American,Male,41.83928045,-87.68818145
+367,Hubbard Woods Elementary School,"Winnetka, Illinois",5/20/1988,2,7,8,Yes,White American or European American,Female,42.10648807,-87.74211141
+368,ESL shooting,"Sunnyvale, California",2/16/1988,7,4,11,Yes,white,Male,37.3688301,-122.0363496
+369,Electromagnetic Systems Laboratory (ESL),"Sunnyvale, California",2/16/1988,7,4,11,Yes,White American or European American,Male,37.38344257,-122.0256185
+370,Pinellas Park High School,"Pinellas Park, Florida",2/11/1988,1,2,3,No,White American or European American,Male,27.84887061,-82.71058
+371,Shopping centers spree killings,"Palm Bay, Florida",4/23/1987,6,14,20,Yes,white,Male,28.0331886,-80.6429695
+372,Palm Bay Shopping Centers,"Palm Bay, Florida",4/23/1987,6,14,20,Yes,White American or European American,Male,27.98388983,-80.66662713
+373,Fergus County High School,"Lewistown, Montana",12/4/1986,1,3,4,Yes,White American or European American,Male,47.03740653,-109.4844918
+374,United States Postal Service shooting,"Edmond, Oklahoma",8/20/1986,15,6,21,Unclear,white,Male,35.6672015,-97.42937037
+375,"Post office in Edmond, Oklahoma","Edmond, Oklahoma",8/20/1986,15,6,20,Yes,White American or European American,Male,35.66889223,-97.41438792
+376,New York Technical College,"Brooklyn, New York",8/12/1986,1,4,5,Yes,Black American or African American,Male,40.679276,-73.939513
+377,Atlanta Post Office,"Atlanta, Georgia",3/6/1985,2,1,3,Yes,Black American or African American,Male,33.7629969,-84.4231328
+378,Goddard Junior High School,"Goddard, Kansas",1/21/1985,1,3,4,Yes,White American or European American,Male,37.67129418,-97.55070476
+379,San Ysidro McDonald's massacre,"San Ysidro, California",7/18/1984,22,19,41,Yes,white,Male,32.5520013,-117.0430813
+380,McDonald's restaurant in San Ysidro,"San Ysidro, California",7/18/1984,22,19,40,Yes,White American or European American,Male,32.555556,-117.047656
+381,Dallas nightclub shooting,"Dallas, Texas",6/29/1984,6,1,7,Yes,white,Male,32.7801052,-96.8000082
+382,Ianni's Club in Dallas,"Dallas, Texas",6/29/1984,6,1,7,Yes,White American or European American,Male,32.79480596,-96.76631094
+383,49th Street Elementary School,"Los Angeles, California",2/24/1984,3,12,14,Yes,Black American or African American,Male,34.17622092,-118.5399542
+384,Johnston Post Office,"Johnston, South Carolina",8/19/1983,1,3,4,Yes,White American or European American,Male,33.83272887,-81.8051584
+385,Wah Mee Club in Seattle,"Seattle, Washington",2/18/1983,13,1,14,Unknown,Asian American,Male,47.62199575,-122.323646
+386,Welding shop shooting,"Miami, Florida",8/20/1982,8,3,11,Yes,white,Male,25.796491,-80.226683
+387,Welding shop in Miami,"Miami, Florida",8/20/1982,9,3,11,Yes,White American or European American,Male,25.79653943,-80.20840397
+388,Valley High School,"Las Vegas, Nevada",3/19/1982,1,2,3,Yes,White American or European American,Male,36.18931923,-115.3264875
+389,University of South Carolina,"Columbia, South Carolina",10/6/1979,2,5,7,Unknown,Black American or African American,Male,34.05098834,-80.82077527
+390,Grover Cleveland Elementary School,"San Diego, California",1/29/1979,2,9,11,Yes,White American or European American,Female,32.86357277,-117.1281628
+391,Cal State Fullerton,"Fullerton, California",7/12/1976,7,2,9,Yes,White American or European American,Male,33.88404244,-117.92785
+392,Los Angeles Computer Learning Center,"Los Angeles, California",2/19/1976,1,7,8,Unknown,White American or European American,Male,34.17622092,-118.5399542
+393,Olean High School,"Olean, New York",12/30/1974,3,7,10,No,White American or European American,Male,42.08185369,-78.43213922
+394,Clara Barton Elementary School,"Chicago, Illinois",1/17/1974,1,3,4,Yes,Unknown,Male,41.83928045,-87.68818145
+395,New Orleans Police Shootings,"New Orleans, Louisiana",12/31/1972,10,13,22,Yes,Black American or African American,Male,30.0687242,-89.93147412
+396,St. Aloysius Church,"Spokane, Washington",11/11/1971,2,4,5,Yes,White American or European American,Male,47.67367375,-117.4159843
+397,Rose-Mar College of Beauty,"Mesa, Arizona",11/12/1966,5,1,6,Yes,White American or European American,Male,33.42268696,-111.8163202
+398,University of Texas at Austin,"Austin, Texas",8/1/1966,17,32,48,Yes,White American or European American,Male,30.1988873,-97.84415949
