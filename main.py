@@ -49,11 +49,46 @@ import numpy as np
 # Fixing random state for reproducibility
 np.random.seed(19680801)
 
-
 N = 50
-area = np.pi * (15 * np.random.rand(N))**2
+area = np.pi * (15 * np.random.rand(N)) ** 2
 
-plt.scatter(dead[1:], injured[1:], s=area, c='blue', alpha=0.2)
+# plt.scatter(dead[1:], injured[1:], s=area, c='blue', alpha=0.2)
+# plt.show()
+
+dates = dataset.iloc[:, 3].values
+
+# plt.figure(figsize=(20, 5))
+# plt.plot_date(x=dates, y=dead, fmt="r-")
+plt.title("US Mass Shooting Deaths Timeline")
+plt.ylabel("Deaths")
+plt.xlabel("Dates")
+
+
+# plt.grid(True)
+# plt.show()
+
+
+# categorize data to make comparisons faster
+race = dataset.iloc[:, 8].values
+
+# create a dictionary to count for each category
+race_dict = dict()
+
+for item in race:
+    if item not in race_dict:
+        race_dict[item] = 1
+    else:
+        race_dict[item] += 1
+
+races = list(race_dict.keys())
+num_races = list(race_dict.values())
+y_pos = np.arange(len(races))
+
+plt.barh(y_pos, num_races, align='center', alpha=0.5)
+plt.yticks(y_pos, races)
+plt.ylabel("Races")
+plt.xlabel("# of shootings involved in")
+plt.title('# of shootings involvement by race')
+
+
 plt.show()
-
-
