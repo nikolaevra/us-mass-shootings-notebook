@@ -14,7 +14,7 @@
 import pandas as pd
 
 # Importing the dataset
-dataset = pd.read_csv('Mass Shootings Dataset.csv')
+dataset = pd.read_csv('datasets/Mass Shootings Dataset.csv')
 dead = dataset.iloc[:, 4].values
 lat = dataset.iloc[:, 10].values
 lon = dataset.iloc[:, 11].values

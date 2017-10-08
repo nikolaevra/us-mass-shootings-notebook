@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Importing the dataset
-dataset = pd.read_csv('Mass Shootings Dataset.csv')
+dataset = pd.read_csv('datasets/Mass Shootings Dataset.csv')
 
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import LabelEncoder
@@ -63,10 +63,8 @@ plt.title("US Mass Shooting Deaths Timeline")
 plt.ylabel("Deaths")
 plt.xlabel("Dates")
 
-
 # plt.grid(True)
 # plt.show()
-
 
 # categorize data to make comparisons faster
 race = dataset.iloc[:, 8].values
@@ -82,13 +80,33 @@ for item in race:
 
 races = list(race_dict.keys())
 num_races = list(race_dict.values())
-y_pos = np.arange(len(races))
+elem_count = np.arange(len(races))
 
-plt.barh(y_pos, num_races, align='center', alpha=0.5)
-plt.yticks(y_pos, races)
+# plt.barh(y_pos, num_races, align='center', alpha=0.5)
+# plt.yticks(y_pos, races)
+# plt.ylabel("Races")
+# plt.xlabel("# of shootings involved in")
+# plt.title('# of shootings involvement by race')
+# plt.show()
+
+# create a dictionary to count for each category
+fatal_dict = dict()
+
+for item in dead:
+    if item not in fatal_dict:
+        fatal_dict[item] = 1
+    else:
+        fatal_dict[item] += 1
+
+deaths = list(race_dict.keys())
+num_deaths = list(race_dict.values())
+elem_count = np.arange(len(deaths))
+
+
+
+plt.yticks(elem_count, deaths)
 plt.ylabel("Races")
 plt.xlabel("# of shootings involved in")
 plt.title('# of shootings involvement by race')
-
 
 plt.show()
