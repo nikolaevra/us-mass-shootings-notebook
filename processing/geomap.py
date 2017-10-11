@@ -29,6 +29,7 @@ title = dataset['Title'] + '<br>' + \
                   'Date: ' + dataset['Date'] + ' Fatalities: ' + \
                   dataset['Fatalities'] + '<br>'
 
+# password temporarily removed
 py.sign_in('nikolaevra', '#####')
 trace1 = {
     "lat": lat,

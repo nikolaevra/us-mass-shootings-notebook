@@ -104,9 +104,26 @@ elem_count = np.arange(len(deaths))
 
 
 
-plt.yticks(elem_count, deaths)
-plt.ylabel("Races")
-plt.xlabel("# of shootings involved in")
-plt.title('# of shootings involvement by race')
+#plt.yticks(elem_count, deaths)
+#plt.ylabel("Races")
+#plt.xlabel("# of shootings involved in")
+#plt.title('# of shootings involvement by race')
 
+#plt.show()
+
+from subprocess import check_output
+from wordcloud import WordCloud, STOPWORDS
+stopwords = set(STOPWORDS)
+
+wordcloud = WordCloud(
+    background_color='white',
+    stopwords=stopwords,
+    max_words=200,
+    max_font_size=40,
+    random_state=42
+).generate(str(dataset['Summary']))
+
+plt.figure(figsize=(12,8))
+plt.imshow(wordcloud)
+plt.axis('off')
 plt.show()
